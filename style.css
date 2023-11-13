@@ -165,7 +165,7 @@ background: linear-gradient(to right, #7AA1D2, #DBD4B4, #CC95C0); /* W3C, IE 10+
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;
+  height: auto;
   display: flex;
   align-items: center;
   justify-content: center;
